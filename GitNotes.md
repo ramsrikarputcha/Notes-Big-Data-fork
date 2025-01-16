@@ -2,6 +2,14 @@
 
 ## Introduction to Git
 Git is a distributed version control system that helps developers collaborate on projects. It allows you to track changes, revert to previous stages, and work on multiple branches simultaneously.
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
 Git is a distributed version control system that helps developers collaborate on projects. It allows you to track changes, revert to previous stages, and work on multiple branches simultaneously.
 Git is a distributed version control system that helps developers collaborate on projects. It allows you to track changes, revert to previous stages, and work on multiple branches simultaneously.
 
