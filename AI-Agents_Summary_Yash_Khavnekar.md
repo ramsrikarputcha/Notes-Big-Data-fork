@@ -1,4 +1,4 @@
-AI Agents: Key Points Summary
+## Summary of Learnings: AI Agents: Key Points Summary
 
 AI agents are intelligent software systems designed to perceive, decide, and act autonomously to achieve specific goals. Here's a concise summary of the main points:
 
@@ -29,3 +29,8 @@ Applications
 11. Effective human-AI interaction
 
 AI agents represent a significant advancement in artificial intelligence, with the potential to revolutionize various industries and automate complex tasks. As the field progresses, we can expect to see increasingly sophisticated AI agents capable of handling more complex scenarios and decision-making processes.
+
+[Learn more here](https://www.perplexity.ai/page/tell-me-about-ai-agents-3lj6iH0WRXKeH77AwBZp6A)
+
+
+
